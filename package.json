@@ -1,0 +1,11 @@
+{
+  "name": "telegram-stickers-uploader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^3.20.0"
+  },
+  "author": "Chen Weiguang",
+  "description": "telegram-stickers-uploader"
+}
